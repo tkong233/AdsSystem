@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AdsSystem/WebContent/WEB-INF/lib/java-json 3.jar&apos; to &apos;java-json.jar&apos;" description="Rename resource &apos;java-json 3.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/lib/java-json 3.jar" name="java-json.jar" stamp="1538942757162" updateReferences="true"/>
+</session>
